@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush, a second year B.Tech student majoring in CS.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning DSA and MERN Stack.
-- 📫 How to reach me ... You can reach me on ayushkumar20701@gmail.com
+- 📫 You can reach me on ayushkumar20701@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You know why programmers prefer dark mode?... Coz light attracts bugs :-)
 
