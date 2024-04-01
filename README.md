@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Ayush, a second year B.Tech student majoring in Computer Science.
-- 👀 I’m interested in Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning DSA and MERN Stack development.
-- 📫 You can reach me on ayushkumar20701@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: You know why programmers prefer dark mode?... Coz light attracts bugs :-)
+👋 Introduction: Hey there! I'm Ayush, currently a second-year B.Tech student majoring in Computer Science.
+
+👀 Interests: My interests lie in the fascinating fields of Artificial Intelligence and Machine Learning.
+
+🌱 Current Focus: Right now, I'm immersing myself in mastering Data Structures and Algorithms (DSA) alongside delving into the exciting world of MERN Stack development.
+
+📫 Contact: Need to get in touch? Feel free to drop me an email at ayushkumar20701@gmail.com.
+
+😄 Pronouns: You can refer to me using He/Him pronouns.
+
+⚡ Fun Fact: Here's a tech joke for you: Why do programmers prefer dark mode? Because light attracts bugs! 🐞😄
+
+Looking forward to connecting and collaborating in the vast and ever-evolving realm of technology! Let's embark on this journey together. 🚀✨
 
 <!---
 ayush-20701/ayush-20701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
