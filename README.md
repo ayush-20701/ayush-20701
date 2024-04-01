@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush, a second year B.Tech student majoring in CS.
+- 👋 Hi, I’m Ayush, a second year B.Tech student majoring in Computer Science.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning DSA and MERN Stack.
 - 📫 You can reach me on ayushkumar20701@gmail.com
